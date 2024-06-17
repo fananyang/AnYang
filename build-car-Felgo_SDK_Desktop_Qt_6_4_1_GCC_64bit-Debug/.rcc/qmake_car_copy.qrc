@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/car">
+    <file alias="qmldir">/root/AnYang/build-car-Felgo_SDK_Desktop_Qt_6_4_1_GCC_64bit-Debug/car/qmldir</file>
+  </qresource>
+</RCC>
+

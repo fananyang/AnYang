@@ -1,0 +1,14 @@
+-rootPath
+/root/AnYang/car
+-cmake-output
+-output-file
+/root/AnYang/build-car-Felgo_SDK_Desktop_Qt_6_4_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appcar.cmake
+-importPath
+/root/AnYang/build-car-Felgo_SDK_Desktop_Qt_6_4_1_GCC_64bit-Debug/car
+-importPath
+/root/AnYang/build-car-Felgo_SDK_Desktop_Qt_6_4_1_GCC_64bit-Debug
+-importPath
+/opt/felgo/Felgo/gcc_64/./qml
+-qrcFiles
+/root/AnYang/build-car-Felgo_SDK_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/qmake_car.qrc
+/root/AnYang/build-car-Felgo_SDK_Desktop_Qt_6_4_1_GCC_64bit-Debug/.rcc/qmake_car_copy.qrc

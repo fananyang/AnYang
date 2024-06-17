@@ -1,0 +1,4 @@
+module car
+typeinfo appcar.qmltypes
+prefer :/
+
